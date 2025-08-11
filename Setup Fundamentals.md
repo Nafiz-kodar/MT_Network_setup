@@ -82,5 +82,3 @@ The 5.8 GHz Rover End setup is divided into three labeled sections in the diagra
     ├── 58ghz_base.png
     └── 900mhz_rover_base.png
 ```
-
-> Tip: If you rename files, update the image paths in the README accordingly.
