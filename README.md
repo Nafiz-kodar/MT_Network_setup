@@ -12,6 +12,8 @@ It includes diagrams for both setups, showing **Ethernet (blue)** and **Electric
 4. [System Notes & Power Requirements](#system-notes--power-requirements)
 5. [Folder Structure](#folder-structure)
 
+> ⚠ **Caution:** Do not connect POE directly to your PC.
+
 ---
 
 ## 5.8 GHz Network Setup — Rover End
