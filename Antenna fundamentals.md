@@ -3,7 +3,7 @@
 ##  Overview
 When a radio wave travels between two antennas, it doesn’t only move in a straight line. Instead, it spreads into an **elliptical region** called the **Fresnel zone**. This zone determines how much clearance is needed for reliable wireless communication.
 
-![Fresnel Zone](Network/Screenshot%2025-08-11%at%8.49.04%AM.png "Fresnel Zone")
+![Fresnel Zone](Network/Screenshot%202025-08-11%20at%208.49.04%20AM.png "Fresnel Zone")
 
 
 The **1st Fresnel zone** is the most critical — obstructions inside it can cause diffraction and signal loss, even if there’s visual line-of-sight (LOS).
