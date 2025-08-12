@@ -71,14 +71,3 @@ The 5.8 GHz Rover End setup is divided into three labeled sections in the diagra
   - **12V** for switches or specific electronics.
 - The **Pixhawk** is used in the 900 MHz setup for control/data relay.
 
----
-
-## Folder Structure
-```
-.
-├── README.md
-└── images
-    ├── 58ghz_rover.png
-    ├── 58ghz_base.png
-    └── 900mhz_rover_base.png
-```
