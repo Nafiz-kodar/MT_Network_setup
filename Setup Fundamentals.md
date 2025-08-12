@@ -10,7 +10,7 @@ It includes diagrams for both setups, showing **Ethernet (blue)** and **Electric
 2. [5.8 GHz Network Setup — Base Station](#58-ghz-network-setup--base-station)
 3. [900 MHz Network Setup — Rover & Base Station](#900-mhz-network-setup--rover--base-station)
 4. [System Notes & Power Requirements](#system-notes--power-requirements)
-5. [Folder Structure](#folder-structure)
+
 
 > ⚠ **Caution:** Do not connect POE directly to your PC.
 
@@ -19,20 +19,20 @@ It includes diagrams for both setups, showing **Ethernet (blue)** and **Electric
 ## 5.8 GHz Network Setup — Rover End
 ![5.8 GHz Rover End](images/58ghz_rover.png)
 
-The 5.8 GHz Rover End setup is divided into three labeled sections in the diagram:
+The 5.8 GHz Rover End can be setup in three different setups
 
-### 1️⃣ Section 1 — Antenna via POE Switch
+### 1️⃣ Setup 1 — Antenna via POE Switch
 - **Power Distribution Board** supplies **24V** to:
   - **POE Injector**, which powers the **POE Switch**.
   - **POE Switch** connects directly to the **Antenna** via Ethernet.
 
-### 2️⃣ Section 2 — PC and Antenna via POE Wire
+### 2️⃣ Setup 2 — PC and Antenna via POE Wire
 - **Power Distribution Board** outputs **24V** to a **POE Wire**.
 - **POE Wire** splits into:
   - **PC (LAN connection)**
   - **Antenna**
 
-### 3️⃣ Section 3 — Multi-device Setup
+### 3️⃣ Setup 3 — Multi-device Setup
 - **Power Distribution Board** sends:
   - **24V** to **POE Wire** for the Antenna.
   - **12V** to a **Switch** for multiple PCs/devices.
@@ -54,7 +54,7 @@ The 5.8 GHz Rover End setup is divided into three labeled sections in the diagra
 
 **Rover End**
 - **Power Distribution Board** connects to the **Antenna**.
-- **Antenna** communicates with **Pixhawk** using electrical wiring.
+- **Antenna** communicates with **Pixhawk** using serial protocol via JST cable.
 
 **Base Station**
 - **12V buck converter** powers the **Antenna**.
