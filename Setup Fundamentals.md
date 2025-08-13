@@ -42,6 +42,10 @@ The 5.8 GHz Rover End can be setup in three different setups
 
 ![PoE Injector and Splitter](images/poe_injector.png)
 
+<p align="center">
+  <strong>figure: picture of POE Splitter</strong> 
+</p>
+
 ---
 
 ## 5.8 GHz Network Setup — Base Station
