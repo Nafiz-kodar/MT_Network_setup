@@ -14,7 +14,7 @@ It includes diagrams for both setups, showing **Ethernet (blue)** and **Electric
 ---
 
 ## 5.8 GHz Network Setup — Rover End
-![5.8 GHz Rover End](images/58ghz_rover.png)
+![5.8 GHz Rover End](images/5.8_GHz_rover.png)
 
 The 5.8 GHz Rover End can be setup in three different setups
 
