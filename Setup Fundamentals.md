@@ -11,9 +11,6 @@ It includes diagrams for both setups, showing **Ethernet (blue)** and **Electric
 3. [900 MHz Network Setup — Rover & Base Station](#900-mhz-network-setup--rover--base-station)
 4. [System Notes & Power Requirements](#system-notes--power-requirements)
 
-
-> ⚠ **Caution:** Do not connect POE directly to your PC.
-
 ---
 
 ## 5.8 GHz Network Setup — Rover End
@@ -37,6 +34,14 @@ The 5.8 GHz Rover End can be setup in three different setups
   - **24V** to **POE Wire** for the Antenna.
   - **12V** to a **Switch** for multiple PCs/devices.
 
+## ⚠️ **WARNING**
+
+🚨 **Make sure to power the antenna using the PoE OUT**
+
+🚨 **Do not connect POE directly to your PC. Using the wrong port can damage the device or cause it to malfunction.**
+
+![PoE Injector and Splitter](images/poe_injector.png)
+
 ---
 
 ## 5.8 GHz Network Setup — Base Station
@@ -51,6 +56,7 @@ The 5.8 GHz Rover End can be setup in three different setups
 
 ## 900 MHz Network Setup — Rover & Base Station
 ![900 MHz Rover + Base](images/900mhz_rover_base.png)
+![p900 connector and xt60](images/p900_connector_xt60.png)
 
 **Rover End**
 - **Power Distribution Board** connects to the **Antenna**.
