@@ -68,7 +68,7 @@ The 5.8 GHz Rover End can be setup in three different setups
 
 **Base Station**
 - **12V buck converter** powers the **Antenna**.
-- **Antenna** communicates with **Pixhawk**.
+- **Antenna** communicates with **PC**.
 
 ---
 
