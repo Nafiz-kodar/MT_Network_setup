@@ -27,7 +27,7 @@ The 5.8 GHz Rover End can be setup in three different setups
 - **Power Distribution Board** outputs **24V** to a **POE Splitter**.
 - **POE Splitter** splits into:
   - **PC (LAN connection)**
-  - **Antenna**
+  - POE Out -> **Antenna**
 
 ### 3️⃣ Setup 3 — Multi-device Setup
 - **Power Distribution Board** sends:
