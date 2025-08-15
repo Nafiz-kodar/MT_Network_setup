@@ -23,7 +23,7 @@ The 5.8 GHz Rover End can be setup in three different setups
   - **POE Injector**, which powers the **POE Switch**.
   - **POE Switch** connects directly to the **Antenna** via Ethernet.
 
-### 2️⃣ Setup 2 — PC and Antenna via POE Wire
+### 2️⃣ Setup 2 — PC and Antenna via POE Splitter
 - **Power Distribution Board** outputs **24V** to a **POE Wire**.
 - **POE Wire** splits into:
   - **PC (LAN connection)**
